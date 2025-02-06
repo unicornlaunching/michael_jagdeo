@@ -10,3 +10,5 @@
 - [Diary of a Stand-up Comedian](http://michaeljagdeo.wordpress.com)
 - [Slideshare](https://www.slideshare.net/manofsteelpan)
 - What I Learned On X (Bonus: Alimony of Language)
+
+Visit [Exponent Labs: Raising You To The Higher Power](https://github.com/unicornlaunching/michael_jagdeo)
