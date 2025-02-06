@@ -1,2 +1,2 @@
-# michael_jagdeo
-writings by michael jagdeo
+# Michael Jagdeo
+## Writings
