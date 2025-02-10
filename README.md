@@ -13,4 +13,6 @@
 - Journey to the Eureka! Moment (Bonus: The Creative Breakthrough Canvas)
 - How To Predict Problems Worth Solving & Jobs To Be Done
 
+BONUS: The Red Queen's Race by Allison Tenn-Yuk h/t Lewis Carroll
+
 Visit [Exponent Labs: Raising You To The Higher Power](https://github.com/unicornlaunching/michael_jagdeo)
