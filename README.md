@@ -12,7 +12,8 @@
 - What I Learned On X (Bonus: Alimony of Language)
 - Journey to the Eureka! Moment (Bonus: The Creative Breakthrough Canvas)
 - How To Predict Problems Worth Solving & Jobs To Be Done
-- ITIL v3 Study Notes 
+- ITIL v3 Study Notes
+- [Code](https://codepen.io/unicornlaunching)
 
 BONUS: The Red Queen's Race by Allison Tenn-Yuk h/t Lewis Carroll
 
