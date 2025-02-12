@@ -31,3 +31,5 @@ Bitcoin (DataViz): https://discoverstacks.netlify.app/
 Ryu (logic): https://thelogickofthedojo.netlify.app/
 
 Charizard (logic): https://charizardlogic.netlify.app/
+
+Birds (Mnemoboids): https://mnemoboids.netlify.app/
