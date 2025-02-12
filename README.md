@@ -23,7 +23,11 @@ Visit [Exponent Labs: Raising You To The Higher Power](https://github.com/unicor
 ## Prototypes:
 
 Real Estate (DEFI): https://verdant-sprite-52fc63.netlify.app/
+
 Religion (chatbot): https://asktheking.carrd.co/
+
 Bitcoin (DataViz): https://discoverstacks.netlify.app/
+
 Ryu (logic): https://thelogickofthedojo.netlify.app/
+
 Charizard (logic): https://charizardlogic.netlify.app/
