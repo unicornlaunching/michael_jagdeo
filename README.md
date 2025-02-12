@@ -1,6 +1,6 @@
 # Michael Jagdeo
 
-## Collection of Writings
+## Blogs
 
 - [Digital Mercenary Blog](https://digitalmercenary.substack.com/)
 - [Exponent Labs](https://exponentlabs.substack.com/)
@@ -9,14 +9,19 @@
 - [Linkedin](https://www.linkedin.com/in/jagdeoholdings/recent-activity/articles/)
 - [Diary of a Stand-up Comedian](http://michaeljagdeo.wordpress.com)
 - [Slideshare](https://www.slideshare.net/manofsteelpan)
-- What I Learned On X (Bonus: Alimony of Language)
-- Journey to the Eureka! Moment (Bonus: The Creative Breakthrough Canvas)
 - How To Predict Problems Worth Solving & Jobs To Be Done
 - ITIL v3 Study Notes
-- [Code](https://codepen.io/unicornlaunching)
-- Prompt Like An Egyptian
 
-BONUS: The Red Queen's Race by Allison Tenn-Yuk h/t Lewis Carroll
+## Books
+
+- What I Learned On X (Bonus: Alimony of Language)
+- Journey to the Eureka! Moment (Bonus: The Creative Breakthrough Canvas)
+
+
+## Papers
+
+- Prompt Like An Egyptian | Manufacturing Consent
+- The Red Queen's Race by Allison Tenn-Yuk h/t Lewis Carroll
 
 Visit [Exponent Labs: Raising You To The Higher Power](https://github.com/unicornlaunching/michael_jagdeo)
 
@@ -33,3 +38,5 @@ Ryu (logic): https://thelogickofthedojo.netlify.app/
 Charizard (logic): https://charizardlogic.netlify.app/
 
 Birds (Mnemoboids): https://mnemoboids.netlify.app/
+
+https://codepen.io/unicornlaunching
