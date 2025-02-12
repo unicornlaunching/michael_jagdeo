@@ -1,16 +1,22 @@
 # The Biological Blind Spot in The Great Founder Theory by Samo Burja
 ####### Blockface
 
-## Thesis:
+## TOO LONG DIDN'T READ
+
+In essence, while acknowledging the value of Burja's work, Blockface suggests that evolutionary concepts like the Red Queen's Race provide a more fundamental and concise framework for understanding the dynamics of societal change and the role of exceptional individuals within it.
+
+# DIALECTIC
+
+## Thesis
 The Great Founder Theory argues that exceptional individuals and the functional institutions they create are primary drivers of social change, rather than impersonal forces or trends.
 
-## Antithesis:
+## Antithesis
 The Trends and Forces Theory of History argues that impersonal forces or trends are primary drivers of social change, rather than exceptional individuals and the functional institutions they create.
 
-## Synthesis:
+## Synthesis
 Great Founders are enabled by the trend and force of social technologies, which are distinct from material technologies. Social Technologies empower Great Founders to create functional institutions that reshape society.
 
-## The Great Founder Theory:
+## Argument
 
 1. Great Founder Theory argues that exceptional individuals and the functional institutions they create are primary drivers of social change, rather than impersonal forces or trends.
 
@@ -26,19 +32,6 @@ Great Founders are enabled by the trend and force of social technologies, which 
 
 7. Blockface argues that the Red Queen's Race concept from evolutionary biology offers a more concise and fundamental explanation of the dynamics described in the Great Founder Theory, suggesting that the book's 800 pages describe a "lower resolution Red Queen's race."
 
-## In essence, while acknowledging the value of Burja's work, Blockface suggests that evolutionary concepts like the Red Queen's Race provide a more fundamental and concise framework for understanding the dynamics of societal change and the role of exceptional individuals within it.
-
-## Trends and Forces Theory of History:
-
-1. The Trends and Forces Theory of History argues that impersonal forces or trends are primary drivers of social change, rather than exceptional individuals and the functional institutions they create.
-
-# Fichtean Dialectic:
-
-Thesis: Thesis is the first stage of the Fichtean Dialectic. It is the statement of the thesis, which is the main idea of the argument.
-
-Antithesis: The antithesis is the second stage of the Fichtean Dialectic. It is the negation of the thesis.
-
-Synthesis: The synthesis is the third stage of the Fichtean Dialectic. It is the resolution of the thesis and the antithesis.
 
 
 
