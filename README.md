@@ -14,7 +14,16 @@
 - How To Predict Problems Worth Solving & Jobs To Be Done
 - ITIL v3 Study Notes
 - [Code](https://codepen.io/unicornlaunching)
+- Prompt Like An Egyptian
 
 BONUS: The Red Queen's Race by Allison Tenn-Yuk h/t Lewis Carroll
 
 Visit [Exponent Labs: Raising You To The Higher Power](https://github.com/unicornlaunching/michael_jagdeo)
+
+## Prototypes:
+
+Real Estate (DEFI): https://verdant-sprite-52fc63.netlify.app/
+Religion (chatbot): https://asktheking.carrd.co/
+Bitcoin (DataViz): https://discoverstacks.netlify.app/
+Ryu (logic): https://thelogickofthedojo.netlify.app/
+Charizard (logic): https://charizardlogic.netlify.app/
