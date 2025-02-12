@@ -1,6 +1,14 @@
-# Executive Summary:
+# The Biological Blind Spot in The Great Founder Theory by Samo Burja
+####### Blockface
 
-Blockface discusses "The Great Founder Theory" by Samo Burja, contrasting it with the trends and forces theory of history. Key points include:
+## Thesis:
+The Great Founder Theory argues that exceptional individuals and the functional institutions they create are primary drivers of social change, rather than impersonal forces or trends.
+
+## Antithesis:
+The Trends and Forces Theory of History argues that impersonal forces or trends are primary drivers of social change, rather than exceptional individuals and the functional institutions they create.
+
+## Synthesis:
+Great Founders are enabled by the trend and force of social technologies, which are distinct from material technologies. Social Technologies empower Great Founders to create functional institutions that reshape society.
 
 ## The Great Founder Theory:
 
@@ -68,11 +76,5 @@ Antithesis: The antithesis is the second stage of the Fichtean Dialectic. It is 
 
 Synthesis: The synthesis is the third stage of the Fichtean Dialectic. It is the resolution of the thesis and the antithesis.
 
-# Applying the Fichtean Dialectic to the Great Founder Theory:
 
-Thesis: The Great Founder Theory argues that exceptional individuals and the functional institutions they create are primary drivers of social change, rather than impersonal forces or trends.
-
-Antithesis: The Trends and Forces Theory of History argues that impersonal forces or trends are primary drivers of social change, rather than exceptional individuals and the functional institutions they create.
-
-Synthesis: Great Founders are enabled by the trend and force of social technologies, which are distinct from material technologies. Social Technologies empower Great Founders to create functional institutions that reshape society.
 
