@@ -1,0 +1,11 @@
+post_id,timestamp,email,post_type,post_audience,active_subscription,country,city,region,device_type,client_os,client_type,user_agent
+159476274,2025-03-20T14:28:05.889Z,stuartlatimer@hotmail.com,newsletter,everyone,true,IT,,,,,,Mozilla/5.0
+159476274,2025-03-20T15:15:24.777Z,adamdany360@gmail.com,newsletter,everyone,true,MY,,,,,,Mozilla/5.0
+159476274,2025-03-20T21:49:18.319Z,kethilydiniz@gmail.com,newsletter,everyone,true,BR,,,,,,Mozilla/5.0
+159476274,2025-03-21T18:12:01.729Z,exponent.labs.hq@gmail.com,newsletter,everyone,false,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+159476274,2025-03-21T18:12:13.353Z,exponent.labs.hq@gmail.com,newsletter,everyone,false,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+159476274,2025-03-21T18:12:32.007Z,exponent.labs.hq@gmail.com,newsletter,everyone,false,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+159476274,2025-03-21T18:14:02.041Z,exponent.labs.hq@gmail.com,newsletter,everyone,false,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+159476274,2025-03-22T11:06:52.635Z,exponent.labs.hq@gmail.com,newsletter,everyone,false,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+159476274,2025-03-23T07:29:28.476Z,exponent.labs.hq@gmail.com,newsletter,everyone,false,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+159476274,2025-03-23T13:19:45.030Z,adamdany360@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)

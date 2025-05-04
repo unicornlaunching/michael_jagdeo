@@ -1,0 +1,7 @@
+post_id,timestamp,email,post_type,post_audience,active_subscription
+157659791,2025-02-22T02:11:36.925Z,exponent.labs.hq@gmail.com,podcast,everyone,false
+157659791,2025-02-22T02:11:38.649Z,bob@orebix.com,podcast,everyone,true
+157659791,2025-02-22T02:11:38.798Z,kethilydiniz@gmail.com,podcast,everyone,true
+157659791,2025-02-22T02:11:39.846Z,alaskoshi@gmail.com,podcast,everyone,true
+157659791,2025-02-22T02:11:39.984Z,adamdany360@gmail.com,podcast,everyone,true
+157659791,2025-02-22T02:11:40.357Z,stuartlatimer@hotmail.com,podcast,everyone,true
