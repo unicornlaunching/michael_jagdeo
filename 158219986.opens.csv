@@ -1,9 +1,0 @@
-post_id,timestamp,email,post_type,post_audience,active_subscription,country,city,region,device_type,client_os,client_type,user_agent
-158219986,2025-03-02T12:11:57.127Z,adamdany360@gmail.com,newsletter,everyone,true,MY,,,,,,Mozilla/5.0
-158219986,2025-03-02T14:07:30.858Z,exponent.labs.hq@gmail.com,newsletter,everyone,false,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
-158219986,2025-03-03T01:22:09.490Z,kethilydiniz@gmail.com,newsletter,everyone,true,BR,,,,,,Mozilla/5.0
-158219986,2025-03-03T18:45:18.582Z,kethilydiniz@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
-158219986,2025-03-03T18:45:22.298Z,kethilydiniz@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
-158219986,2025-03-10T09:43:53.411Z,exponent.labs.hq@gmail.com,newsletter,everyone,false,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
-158219986,2025-03-10T09:43:53.496Z,exponent.labs.hq@gmail.com,newsletter,everyone,false,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
-158219986,2025-03-11T00:00:35.216Z,stuartlatimer@hotmail.com,newsletter,everyone,true,IT,,,,,,Mozilla/5.0
